@@ -1,0 +1,28 @@
+a {
+text-decoration: none;   
+}
+img {
+    max-width: 100%;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.flexSpaceRound {
+    justify-content: space-around;
+}
+.flexSpaceBetween {
+    justify-content: space-between;
+}
+.flexJustifyEnd{
+    justify-content: flex-end;
+}
+.flexJustifyStart{
+    justify-content: flex-start;
+}
+.pos_ab {
+    position: absolute;
+}
+.pos_re {
+    position: relative;
+}
